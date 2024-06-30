@@ -1,0 +1,20 @@
+body {
+background-color: #e0be99;
+
+}
+
+
+h2 {
+  font-weight: bold;
+
+}
+
+code {
+  color: navy;
+}
+
+@media screen and (max-width: 766px) {
+  body {
+    background-color:  	#b4be89;
+  }
+}
